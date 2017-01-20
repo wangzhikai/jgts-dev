@@ -1,5 +1,5 @@
 # jgts-dev
-not necessarily a clone of GTS
+JGTS not necessarily a clone of GTS. Now a GTS viewer works.
 
 Quick start
 -----------
