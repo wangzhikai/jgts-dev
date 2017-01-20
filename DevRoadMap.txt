@@ -1,0 +1,8 @@
+Jgts Objectives
+1.0 Release, GTS mesh renderer/viewer
+1.0.1 Moving Object redesign + Camera redesign
+1.1 Release
+- use JNI call GTS native C programs
+2.0 Release
+- rewrite all GTS code to Java
+- compare performance
