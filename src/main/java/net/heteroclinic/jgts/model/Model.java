@@ -7,8 +7,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URISyntaxException;
 import java.net.URL;
-
-import net.heteroclinic.jgts.TestGTSModelBunnyNEWT;
 /**
  * Copyright 2016 Zhikai Wang <www.heteroclinic.net>. All rights reserved.
  * Science and Technology Promotion License 
