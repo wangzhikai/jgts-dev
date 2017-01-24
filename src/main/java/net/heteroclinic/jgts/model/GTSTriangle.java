@@ -11,7 +11,7 @@ package net.heteroclinic.jgts.model;
 /**
  * JGTS not necessarily a clone of GTS.
  * <p>
- * {@code GTSTriangle} class is an composition of {@code Triangle}.
+ * {@code GTSTriangle} class is a composition of {@code Triangle}.
  * <p> 
  * {@code index} is the sequence number in the model's triangles segment.
  * {@code attrib} is reserved.

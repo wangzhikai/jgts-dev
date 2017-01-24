@@ -11,7 +11,7 @@ package net.heteroclinic.jgts.model;
 /**
  * JGTS not necessarily a clone of GTS.
  * <p>
- * {@code GTSEdge} class is an composition of {@code Edge}.
+ * {@code GTSEdge} class is a composition of {@code Edge}.
  * <p>
  * {@code index} is the sequence number in the model's edges segment.
  * {@code attrib} is reserved.

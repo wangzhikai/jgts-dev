@@ -42,7 +42,7 @@ import com.jogamp.opengl.util.Animator;
  * good to attach to a Future each, run from Executor, use a list to store all the futures.
  * While shutting down will be handled by a Shutdown-hook, similar to VC++ CloseHandle, 
  * probably an equivalence of _exit() of a process. In the Shutdown-hook, cancel all the 
- * futures, better to have a 'halted' boolean signaling the end of life a thread, wait for 
+ * futures, better to have a 'halted' boolean signaling the end of life of a thread, wait for 
  * the end of life booleans. Shutdown the Executor finally.
  * @author      Zhikai Wang &lt;www.heteroclinic.net&gt;
  */
